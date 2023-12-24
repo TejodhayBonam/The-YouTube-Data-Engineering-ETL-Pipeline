@@ -1,4 +1,4 @@
-# ETL Project : Youtube-data-pipeline
+# ETL Project : The Youtube Data Engineering pipeline
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -62,5 +62,5 @@ The `snowflake` documentation, which aided in loaded the data into  data warehou
 ## Contacts
 For any questions or inquiries related to this project, please feel free to contact me :)
 
-- linkedin : <a href="https://www.linkedin.com/in/tejodhay-bonam-66b3661b0/" target="_blank">Tejodhay Bonam</a><br>
+- Linkedin : <a href="https://www.linkedin.com/in/tejodhay-bonam-66b3661b0/" target="_blank">Tejodhay Bonam</a><br>
 
